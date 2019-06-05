@@ -66,5 +66,3 @@ def otp_validation(payment_id=None, transaction_id=None,eci_flag=None):
     return visa_purchase
 
 
-# otp_validation(md='255543',pa_res='eNpVUstOwzAQvPsrKj4gtpM0otViKbQIIpTy6AOVW+qsiIE4wXUo8PXYoaXg085ovZ6ZNSwqgzido+wMCshxuy2ecKDKsxOuRpN5lN1MQ3m6uOo2uOTsRMBteo9vAt7RbFWjBQ9YEAI9QOJGGFkV2goo5Nt5NhNxHEdRBHQPCdRosqngYRQPE6A/iIAuahRpibbTz0oN0helSwTa0wRk02lrPsUwcVcOgEBnXkVlbTumdIebtvgMlLZOyk5ZWemnQDY1dWypDEpLS6wboP4OAXrUedv5auvsf6hS5A8vwzuef82Xo4u8zuPVRcXX9WqVL9IzoL6DQFlYFCHjp2zEkgGLxsNozJ3FnidQ1F6gmF3OBkmSBF7yniLQ+sfSH5T4A/Qv5Zx2xqCWB6sHRAA/2kaj63Fx/9bOyFH+5MqHLq3LU1632Wb5yLJMLaqa8y+tXnfrSZZLv4i+pZ+oXIwhY3E/UvWZUj+G7tdM9z/CVf9+yjfImLm2',
-#                payment_id='255543',transaction_id='1i9CS3IOD2c8THubeU10',eci_flag='07')
