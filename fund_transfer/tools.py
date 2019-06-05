@@ -67,5 +67,3 @@ def send_funds(init_amount=None, beneficiary={}, account_details={},bank_code=No
     print(send_fund)
     return send_fund
 
-# send_funds(init_amount=10, beneficiary={"lastname": "Okezie","othernames": "Uchenna"},account_details={"accountNumber": "0014598347","accountType": "10"},
-#            bank_code='058')
