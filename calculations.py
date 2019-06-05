@@ -1,6 +1,5 @@
 __author__ = "Lotanna Amaechi"
 __copyright__ = "Copyright 2018"
-__contact__ = "08138755162"
 __license__ = "GPL"
 __version__ = "1.0.1"
 __maintainer__ = "Lotanna Amaechi"

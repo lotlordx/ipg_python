@@ -51,7 +51,7 @@ def send_funds(init_amount=None, beneficiary={}, account_details={},bank_code=No
     initiating_entity_code = entity_code
     initiation = {"amount":int(float(init_amount)*100),"channel": "7","currencyCode":currency_code,"paymentMethodCode":payment_method_code,
                   }
-    sender = {"email": "info@nuture.tech","lastname": "Nuture","othernames": "Technology Services","phone": "09066582734"}
+    sender = {"email": "test@test.com","lastname": "Test","othernames": "Test","phone": "02020222"}
     termination = {"accountReceivable":account_details,"amount":int(float(init_amount)*100),"countryCode":country_code,
                    "currencyCode": "566", "entityCode": bank_code, "paymentMethodCode": "AC"
                    }
